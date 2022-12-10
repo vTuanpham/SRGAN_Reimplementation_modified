@@ -1,5 +1,5 @@
-# SRGAN_Reimplementation_modified
-**Re-Implementation of SRGAN with symmetric padding for a better merged final image (Anysize input with 4x upscaled)**
+# Keras_SRGAN_Reimplementation_modified
+**Keras Re-Implementation of SRGAN with symmetric padding for a better merged final image (Anysize input with 4x upscaled)**
 
 
 AI-upscale application with user-interface for anysize input image with 4x upscaled output based on SRGAN with modified-Generator.
