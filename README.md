@@ -1,8 +1,9 @@
 # SRGAN_Reimplementation_modified
-Re-Implementation of SRGAN with symmetric padding for a better merged final image (Anysized input with 4x upscaled)
+**Re-Implementation of SRGAN with symmetric padding for a better merged final image (Anysize input with 4x upscaled)**
 
 
-AI-upscale application with user-interface for anysized input image with 4x upscaled output based on SRGAN with modified-Generator.
+AI-upscale application with user-interface for anysize input image with 4x upscaled output based on SRGAN with modified-Generator.
+Added Symmetric padding for a seamless final merged image, add more conv layers as well as more residual blocks, lay out general workflow for anysize input.
 
 
 **Modified-Generator**
